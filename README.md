@@ -5,3 +5,5 @@ For a Flatiron School Data Science Class project
 Scraping the data from web
 
 Using selenium and mangodb
+
+Co-work with Kevin, Sherry, and Tara
