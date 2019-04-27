@@ -1,4 +1,4 @@
-# scraping_music_views
+# scraping music_video views on YT
 
 For a Flatiron School Data Science Class project
 
