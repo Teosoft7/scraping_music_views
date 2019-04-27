@@ -1,2 +1,5 @@
 # scraping_music_views
-For a class project
+
+For a Flatiron School Data Science Class project
+
+Scraping the data from web
